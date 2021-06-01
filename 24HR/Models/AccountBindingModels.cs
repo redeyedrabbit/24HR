@@ -5,6 +5,7 @@ using Newtonsoft.Json;
 namespace _24HR.Models
 {
     // Models used as parameters to AccountController actions.
+    // TEST COMMENT 
 
     public class AddExternalLoginBindingModel
     {
